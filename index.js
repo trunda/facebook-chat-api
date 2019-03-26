@@ -111,6 +111,7 @@ function buildAPI(globalOptions, html, jar) {
     'setTitle',
     'threadColors',
     'unsendMessage',
+    'changeIgnoreStatus',
 
     // Deprecated features
     "getThreadListDeprecated",
